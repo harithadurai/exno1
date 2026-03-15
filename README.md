@@ -25,7 +25,6 @@ import pandas as pd
 data=pd.read_csv('D:Data_set (1).csv')
 print(data)
 
-            <<include your coding and its corressponding output screen shots here>>
+<img width="815" height="826" alt="image" src="https://github.com/user-attachments/assets/644ec88e-42f8-434e-a1e7-b1d6d4e709ca" />
 
-            
-          <<include your Result here>>
+
