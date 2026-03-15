@@ -26,5 +26,6 @@ data=pd.read_csv('D:Data_set (1).csv')
 print(data)
 
             <<include your coding and its corressponding output screen shots here>>
-# Result
+
+            
           <<include your Result here>>
