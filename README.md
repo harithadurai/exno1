@@ -27,4 +27,34 @@ print(data)
 
 <img width="815" height="826" alt="image" src="https://github.com/user-attachments/assets/644ec88e-42f8-434e-a1e7-b1d6d4e709ca" />
 
+import pandas as pd
+data=pd.read_csv('D:Data_set (1).csv')
+print(data)
+df=pd.DataFrame(data)
+df.describe()
 
+<img width="824" height="368" alt="image" src="https://github.com/user-attachments/assets/1874b7c5-be89-4ee1-9a6a-0d22c9b2a7bb" />
+
+import pandas as pd
+data=pd.read_csv('D:Data_set (1).csv')
+print(data)
+df=pd.DataFrame(data)
+print(df.isnull())
+
+<img width="685" height="569" alt="image" src="https://github.com/user-attachments/assets/27591f3f-f43b-4f4d-bbfc-33802b0671be" />
+
+import pandas as pd
+data=pd.read_csv('D:Data_set (1).csv')
+print(data)
+df=pd.DataFrame(data)
+print(df.isnull().sum())
+
+<img width="300" height="225" alt="image" src="https://github.com/user-attachments/assets/47bd73da-7cdc-430b-8f2f-e733a72af16f" />
+
+import pandas as pd
+data=pd.read_csv('D:Data_set (1).csv')
+print(data)
+df=pd.DataFrame(data)
+df.info()
+
+<img width="404" height="272" alt="image" src="https://github.com/user-attachments/assets/57281b00-53f3-4b73-8b6e-5ae2170d7549" />
